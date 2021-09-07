@@ -1,8 +1,7 @@
 # Kidney_Cancer_Prediction_Using_Machine_Learning
-Python code for Kidney Cancer Prediction Using ML Algorithms
+The goal of this project is to develop an automated chronic kidney disease assessment where user can enter some details and can get free assessment based on the input data, The assessments are done with the help of trained machine learning models.
 
-
-To run application
+### To run application
 
 1. Install all the libraries
 $ pip install -r requirements.txt
@@ -15,3 +14,13 @@ $ python server.py
 4. To access stored results Use creadentials 
    Username : admin
    Password : admin
+
+![]('static/scrn1.png')
+
+![]('static/scrn2.png')
+
+![]('static/scrn3.png')
+
+![]('static/scrn4.png')
+
+![]('static/scrn5.png')
