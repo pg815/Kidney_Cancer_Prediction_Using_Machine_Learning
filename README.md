@@ -15,12 +15,12 @@ $ python server.py
    Username : admin
    Password : admin
 
-![]('static/scrn1.png')
+![](static/scrn1.png)
 
-![]('static/scrn2.png')
+![](static/scrn2.png)
 
-![]('static/scrn3.png')
+![](static/scrn3.png)
 
-![]('static/scrn4.png')
+![](static/scrn4.png)
 
-![]('static/scrn5.png')
+![](static/scrn5.png)
